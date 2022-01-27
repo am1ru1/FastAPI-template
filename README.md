@@ -90,8 +90,8 @@ optional arguments:
   --kube                Add kubernetes configs
   --dummy, --dummy-model
                         Add dummy model
-  --routers             Add exmaple routers
-  --swagger             Eanble self-hosted swagger
+  --routers             Add example routers
+  --swagger             Example self-hosted swagger
   --force               Owerrite directory if it exists
   --quite               Do not ask for feature during generation
 ```
